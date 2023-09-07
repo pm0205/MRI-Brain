@@ -1,6 +1,5 @@
 # Brain Tumor Detection
 
-![image](https://github.com/MainakRepositor/Brain-Tumour-Detection/assets/64016811/5eff5303-c635-4a39-ab67-ba0eaa259142)
 
 
 ## Our Model
