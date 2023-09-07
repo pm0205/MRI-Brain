@@ -1,5 +1,6 @@
 # Brain Tumor Detection
 
+![image](https://github.com/MainakRepositor/MRI-Brain/assets/64016811/09d7a5f4-3072-4672-84ba-85887ddc24f3)
 
 
 ## Our Model
