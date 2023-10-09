@@ -2,6 +2,7 @@
 
 ![image](https://github.com/MainakRepositor/MRI-Brain/assets/64016811/09d7a5f4-3072-4672-84ba-85887ddc24f3)
 
+## Dataset : https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
 
 ## Our Model
 Below is the summary of our CNN model which we have made using python and keras.
