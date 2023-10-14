@@ -39,4 +39,10 @@ Each Layer has a specific job in order to get the desired output, they are :-
 
 - Fully connected layer (dense): This layer takes the flattened vector from the previous layer and applies 128 neurons to it, producing a 128-dimensional output. The output of this layer has a shape of (None, 128).
 
+## Screenshots
+
+![image](https://github.com/MainakRepositor/MRI-Brain/assets/64016811/358602f0-f996-4dc7-a5d4-0aa04f451dda)
+![image](https://github.com/MainakRepositor/MRI-Brain/assets/64016811/9722c10a-28b8-4c55-b241-450df5d506c1)
+![image](https://github.com/MainakRepositor/MRI-Brain/assets/64016811/4f59a2f0-2528-4d42-8520-84264aeecfb5)
+![image](https://github.com/MainakRepositor/MRI-Brain/assets/64016811/aff67f0c-2277-4da4-901d-ce08cf2dd796)
 
