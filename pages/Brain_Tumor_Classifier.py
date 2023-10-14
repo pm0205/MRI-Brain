@@ -46,7 +46,7 @@ st.title("Brain Tumor Predictor")
 st.write('<style>div.row-widget.stMarkdown { font-size: 24px; }</style>', unsafe_allow_html=True)
 st.sidebar.write('Sometimes, mental stress is also the reason behind tumors. Check your stress level to understand brain health')
 st.sidebar.markdown(
-    f'<a href="https://stress-level-detector.streamlit.app/" target="_blank" style="display: inline-block; padding: 12px 20px; background-color: yellow; color: white; text-align: center; text-decoration: none; font-size: 16px; border-radius: 4px;">Stress Level Detection</a>',
+    f'<a href="https://stress-level-detector.streamlit.app/" target="_blank" style="display: inline-block; padding: 12px 20px; background-color: red; color: white; text-align: center; text-decoration: none; font-size: 16px; border-radius: 4px;">Stress Level Detection</a>',
     unsafe_allow_html=True
 )
 
