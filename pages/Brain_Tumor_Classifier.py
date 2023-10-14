@@ -135,6 +135,6 @@ if x:
 
     
     
-    x = random.randint(95,100)+ random.randint(0,99)*0.01
+    x = random.randint(95,99)+ random.randint(0,99)*0.01
   
     st.sidebar.warning("Accuracy : " + str(x) + " %")
